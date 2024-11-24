@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/watchers/Striker72rus/filament_weight.svg)
-![](https://img.shields.io/github/stars/Striker72rus/filament_weight.svg)
+![](https://img.shields.io/github/watchers/Striker72rus/bambu_filament_change.svg)
+![](https://img.shields.io/github/stars/Striker72rus/bambu_filament_change.svg)
 
 [![Donate](https://img.shields.io/badge/donate-Tinkoff-yellow.svg)](https://www.tinkoff.ru/rm/dontsov.sergey22/KEZ6r54259)
 
